@@ -1,0 +1,25 @@
+{
+  "name": "use-sync-bro",
+  "version": "1.0.0",
+  "description": "A custom hook for making synchronous updates to your useState hook in react",
+  "main": "useSyncState.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddy1381/useSyncState.git"
+  },
+  "keywords": [
+    "custom",
+    "hook",
+    "react",
+    "promise"
+  ],
+  "author": "Madhav Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddy1381/useSyncState/issues"
+  },
+  "homepage": "https://github.com/maddy1381/useSyncState#readme"
+}
